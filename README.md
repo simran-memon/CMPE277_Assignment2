@@ -24,7 +24,7 @@ Implementation:
 ![alt text](https://github.com/simran-memon/CMPE277_Assignment2/blob/main/screenshots/1646451948274.jpg?raw=true)       
         
 
-![alt text](https://github.com/simran-memon/CMPE277_Assignment2/blob/main/screenshots/1646451948247.jpgraw=true)       
+![alt text](https://github.com/simran-memon/CMPE277_Assignment2/blob/main/screenshots/1646451948247.jpg?raw=true)       
                 
 
 
